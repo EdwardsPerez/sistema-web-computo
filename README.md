@@ -1,16 +1,30 @@
-Descripción del Sistema
-Este es un sistema web de ventas de computadoras, desarrollado en Spring Boot con MySQL como base de datos. El sistema permite la selección de equipos por componentes o la compra de configuraciones completas.
+# Computer Web System
 
-Roles de Usuario:
-Administrador: Puede agregar y gestionar componentes.
-Usuario: Puede visualizar el catálogo completo, realizar compras y utilizar la pasarela de pago.
-Funcionalidades Clave:
-Pasarela de Pago: Integración de un sistema de pago.
-Descarga de Comprobantes: Los usuarios pueden descargar un comprobante de su compra.
-Integración de Personal: El sistema contempla la participación de:
-Un vendedor.
-Un técnico, encargado de la instalación de los componentes.
-Tecnologías Utilizadas:
-Lenguaje de Programación: Java
-Framework: Spring Boot
-Base de Datos: MySQL
+Web application developed to manage computer-related information and operations within an academic environment.
+
+## Technologies Used
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+## Features
+- Computer registration and management
+- Data storage in relational database
+- User interface for managing information
+- Basic CRUD operations
+
+## Purpose
+This project was developed as part of academic practice to demonstrate the implementation of a web system using Java technologies and database integration.
+
+## Installation
+
+1. Clone the repository
+2. Import the project into your Java IDE
+3. Configure the database connection
+4. Run the application
+
+## Author
+Edwards Perez  
+Web Developer
